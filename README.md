@@ -4,6 +4,9 @@ A modern web application that helps you generate blog posts using your local LLM
 
 Hosted version: https://blog-writer-gamma.vercel.app/
 
+<img width="1207" alt="image" src="https://github.com/user-attachments/assets/9f7a43f4-3243-40e4-97eb-5c1576af1df7" />
+
+
 ## Features
 
 - 🚀 Generate blog posts from outlines
