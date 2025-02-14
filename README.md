@@ -2,6 +2,8 @@
 
 A modern web application that helps you generate blog posts using your local LLM (Language Learning Model) through Ollama.
 
+Hosted version: https://blog-writer-gamma.vercel.app/
+
 ## Features
 
 - 🚀 Generate blog posts from outlines
@@ -23,7 +25,7 @@ A modern web application that helps you generate blog posts using your local LLM
 
 - Node.js 18+ installed
 - [Ollama](https://ollama.ai) installed and running
-- A compatible LLM model (e.g., mistral-7b, llama2)
+- A compatible LLM model (e.g., phi4, llama3.2)
 
 ## Installation
 
